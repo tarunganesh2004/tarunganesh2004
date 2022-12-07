@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tarunganesh2004
-- 👀 I’m interested in everything😂😁
+- 👀 I’m interested in nothing but everything😂😁
 - 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through Instagram(https://www.instagram.com/tarun_ganesh_2004/)
 
 <!---
