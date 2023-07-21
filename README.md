@@ -16,6 +16,12 @@
 <a href="https://instagram.com/tarun_ganesh_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tarun_ganesh_2004" height="30" width="40" /></a>
 </p>
 
+## 🌱I'm Currently Learning
+
+- JavaScript
+- Backend(php)
+- C#
+
 <h2 >Languages and Skills</h2> 
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /></a>   
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>  
