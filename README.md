@@ -13,7 +13,7 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://instagram.com/tarun_ganesh_2004" target="blank"><img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;"/></a>
+<a href="https://instagram.com/tarun_ganesh_2004" target="blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=Instagram style="margin-bottom: 5px;"/></a>
 
 
 ## 🌱I'm Currently Learning
