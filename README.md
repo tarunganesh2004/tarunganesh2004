@@ -13,7 +13,7 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://instagram.com/tarun_ganesh_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tarun_ganesh_2004" height="30" width="40" /></a>
+<a href="https://instagram.com/tarun_ganesh_2004" target="blank"><img align="center" src="https://i.postimg.cc/fW0tjNBY/instagram-icon-146245.png " alt="tarun_ganesh_2004" height="30" width="40" /></a>
 
 
 ## 🌱I'm Currently Learning
