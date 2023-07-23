@@ -13,7 +13,9 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://instagram.com/tarun_ganesh_2004" target="blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=Instagram style="margin-bottom: 5px;"/></a>
+[![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarunganesh2004)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tarun_ganesh_2004)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-ganesh-emadabathuni-440737255)
 
 
 ## 🌱I'm Currently Learning
