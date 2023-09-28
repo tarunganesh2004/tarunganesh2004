@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Tarun Ganesh</h1>
 <h3 align="center">A passionate CS Undergraduate and developer from VIT-AP University</h3>
 
--  I’m currently Studying **Computer Science and Engineering with Specilization in AI and ML**
+- 🎓 I'm a student passionate about technology and learning. I have a strong foundation in Python and I'm currently diving deep into the exciting world of Machine Learning.
+
+- 💻 I also have experience in front-end web development and I'm always eager to expand my skills and take on new challenges.
+
+- 🤖 My main areas of interest include machine learning, data science, and using technology to solve real-world problems.
+
+- 🚀 I'm actively working on projects to apply my knowledge and I'm open to collaborations and learning opportunities.
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarunganesh2004?tab=repositories](https://github.com/tarunganesh2004?tab=repositories)
 
-- 💬 Ask me about **python**
-
-- 📫 How to reach me **tarun.21bce8974@vitapstudent.ac.in**
-
-- ⚡ Fun fact **I use only 0.01% of my brain every day😂😁**
+- 📫 Feel free to reach out to me through [mail](mailto:enstarunganesh@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tarun-ganesh-emadabathuni-440737255)!
 
 ## 🌱I'm Currently Learning
 
