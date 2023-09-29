@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarun Ganesh</h1>
 <h3 align="center">A passionate CS Undergraduate and developer from VIT-AP University</h3>
-
 - 🎓 I'm a student passionate about technology and learning. I have a strong foundation in Python and I'm currently diving deep into the exciting world of Machine Learning.
 
 - 💻 I also have experience in front-end web development and I'm always eager to expand my skills and take on new challenges.
