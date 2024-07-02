@@ -48,6 +48,6 @@
 </table>
 
 <h2>Github Achievements</h2>
-[![trophy](https://github-profile-trophy.vercel.app/?username=tarunganesh2004)](https://github.com/tarunganesh2004/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tarunganesh2004)]
 
 
