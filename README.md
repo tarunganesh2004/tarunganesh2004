@@ -47,7 +47,7 @@
    </tr>
 </table>
 
-<h2>Github Achievements</h2>
-[![trophy](https://github-profile-trophy.vercel.app/?username=tarunganesh2004)]
+<!-- <h2>Github Achievements</h2>
+[![trophy](https://github-profile-trophy.vercel.app/?username=tarunganesh2004)] -->
 
 
