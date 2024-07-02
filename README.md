@@ -1,5 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Tarun
- Ganesh </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tarun;Ganesh)](https://git.io/typing-svg)
 <h3 align="center">A passionate CS Undergraduate and developer from VIT-AP University</h3>
 - 🎓 I'm a student passionate about technology and learning. I have a strong foundation in Python and I'm currently diving deep into the exciting world of Machine Learning.
 
@@ -39,7 +38,7 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
-## \_\_stats__
+<h2>Stats</h2>
 
 <table>
   <tr>
@@ -47,3 +46,6 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunganesh2004&layout=compact&show_icons=true&locale=en&theme=tokyonight&title_color=9c38ff&hide=jupyter%20notebook"  display=block height=190 align="center" alt="2"></td>
    </tr>
 </table>
+
+<h2>Github Achievements</h2>
+![](https://github-profile-trophy.vercel.app/?username=tarunganesh2004&theme=tokyonight)
