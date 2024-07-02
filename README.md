@@ -48,5 +48,6 @@
 </table>
 
 <h2>Github Achievements</h2>
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=tarunganesh2004&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tarunganesh2004)](https://github.com/tarunganesh2004/github-profile-trophy)
+
 
