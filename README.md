@@ -14,8 +14,7 @@
 
 ## 🌱I'm Currently Learning
 
-- JavaScript Frameworks
-- PHP
+- ReactJs
 - C#
 
 ### 🤝 Connect with me:
