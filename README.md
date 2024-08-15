@@ -1,4 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&width=600&height=80&color=25B31F&lines=Hi%2C%F0%9F%91%8Bthere+Tarun+Ganesh+here!...)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=tarunganesh2004&color=orange)
+
 <h3 align="center">A passionate CS Undergraduate and developer from VIT-AP University</h3>
 - 🎓 I'm a student passionate about technology and learning. I have a strong foundation in Python and I'm currently diving deep into the exciting world of Machine Learning.
 
@@ -26,7 +29,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tarun_ganesh_2004)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-ganesh-emadabathuni-440737255)
 
-![](https://komarev.com/ghpvc/?username=tarunganesh2004&color=orange)
+
 
 <h2 >Languages and Skills</h2> 
 
