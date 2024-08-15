@@ -17,7 +17,7 @@
 - ReactJs
 - C#
 
-[Profile Views](https://komarev.com/ghpvc/?username=tarunganesh2004&color=green) 
+[](https://komarev.com/ghpvc/?username=tarunganesh2004&color=green) 
 
 ### 🤝 Connect with me:
 
