@@ -17,6 +17,8 @@
 - ReactJs
 - C#
 
+[Profile Views](https://komarev.com/ghpvc/?username=tarunganesh2004&color=green) 
+
 ### 🤝 Connect with me:
 
 [![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarunganesh2004)
