@@ -17,7 +17,7 @@
 - ReactJs
 - C#
 
-![](https://komarev.com/ghpvc/?username=tarunganesh2004&color=green) 
+ 
 
 ### 🤝 Connect with me:
 
@@ -50,5 +50,7 @@
 
 <!-- <h2>Github Achievements</h2>
 [![trophy](https://github-profile-trophy.vercel.app/?username=tarunganesh2004)] -->
+
+![](https://komarev.com/ghpvc/?username=tarunganesh2004&color=orange)
 
 
