@@ -26,7 +26,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tarun_ganesh_2004)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-ganesh-emadabathuni-440737255)
 
-<h2>![](https://komarev.com/ghpvc/?username=tarunganesh2004&color=orange)</h2>
+![](https://komarev.com/ghpvc/?username=tarunganesh2004&color=orange)
 
 <h2 >Languages and Skills</h2> 
 
