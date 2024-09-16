@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&width=600&height=80&color=25B31F&lines=Hi%2C%F0%9F%91%8Bthere+Tarun+Ganesh+here!...)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate CS Undergraduate and developer from VIT-AP University</h3>
+
 - 🎓 I'm a student passionate about technology and learning. I have a strong foundation in Python and I'm currently diving deep into the exciting world of Machine Learning.
 
 - 💻 I also have experience in front-end web development and I'm always eager to expand my skills and take on new challenges.
@@ -13,13 +14,11 @@
 
 - 📫 Feel free to reach out to me through [mail](mailto:enstarunganesh@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tarun-ganesh-emadabathuni-440737255)!
 
-## 🌱I'm Currently Learning
+## 🌱 I'm Currently Learning
 
 - ReactJs
 - C#
 - GoLang
-
- 
 
 ### 🤝 Connect with me:
 
@@ -28,9 +27,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tarun_ganesh_2004)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-ganesh-emadabathuni-440737255)
 
-
-
-<h2 >Languages and Skills</h2> 
+<h2>Languages and Skills</h2>
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -43,11 +40,10 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
-
 <h2>Profile Views</h2>
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/tarunganesh2004/count.svg?align=center)
-
+<div >
+  <img src="https://profile-counter.glitch.me/tarunganesh2004/count.svg" alt="Profile Views">
+</div>
 
 <h2>Stats</h2>
 
@@ -57,4 +53,3 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunganesh2004&layout=compact&show_icons=true&locale=en&theme=tokyonight&title_color=9c38ff&hide=jupyter%20notebook"  display=block height=190 align="center" alt="2"></td>
    </tr>
 </table>
-
