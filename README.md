@@ -53,3 +53,8 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunganesh2004&layout=compact&show_icons=true&locale=en&theme=tokyonight&title_color=9c38ff&hide=jupyter%20notebook"  display=block height=190 align="center" alt="2"></td>
    </tr>
 </table>
+
+<h2>Contributions</h2>
+<div>
+  <img src="https://github.com/tarunganesh2004/tarunganesh2004/raw/output/snake.svg" alt="Snake animation" />
+</div>
