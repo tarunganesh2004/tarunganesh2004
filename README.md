@@ -54,4 +54,5 @@
    </tr>
 </table>
 
+![Snake animation](https://github.com/tarunganesh2004/tarunganesh2004/raw/main/dist/snake.svg)
 
