@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&width=600&height=80&color=25B31F&lines=Hi%2C%F0%9F%91%8Bthere+Tarun+Ganesh+here!...)](https://git.io/typing-svg)
-![](https://komarev.com/ghpvc/?username=tarunganesh2004&color=yellow)
 
 <h3 align="center">A passionate CS Undergraduate and developer from VIT-AP University</h3>
 - 🎓 I'm a student passionate about technology and learning. I have a strong foundation in Python and I'm currently diving deep into the exciting world of Machine Learning.
@@ -18,6 +17,7 @@
 
 - ReactJs
 - C#
+- GoLang
 
  
 
@@ -42,6 +42,12 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+
+
+<h2>Profile Views</h2>
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
+
 
 <h2>Stats</h2>
 
