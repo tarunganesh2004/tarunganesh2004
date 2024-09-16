@@ -54,7 +54,4 @@
    </tr>
 </table>
 
-<h2>Contributions</h2>
-<div>
-  <img src="https://github.com/tarunganesh2004/tarunganesh2004/raw/output/snake.svg" alt="Snake animation" />
-</div>
+
