@@ -46,7 +46,7 @@
 
 <h2>Profile Views</h2>
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/tarunganesh2004/count.svg?align=center)
 
 
 <h2>Stats</h2>
@@ -57,10 +57,4 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunganesh2004&layout=compact&show_icons=true&locale=en&theme=tokyonight&title_color=9c38ff&hide=jupyter%20notebook"  display=block height=190 align="center" alt="2"></td>
    </tr>
 </table>
-
-<!-- <h2>Github Achievements</h2>
-[![trophy](https://github-profile-trophy.vercel.app/?username=tarunganesh2004)] -->
-
-
-
 
