@@ -45,6 +45,8 @@
   <img src="https://profile-counter.glitch.me/tarunganesh2004/count.svg" alt="Profile Views">
 </div>
 
+## Github Achievements
+![](https://github-profile-trophy.vercel.app/?username=tarunganesh2004&theme=tokyonight)
 <h2>Stats</h2>
 
 <table>
