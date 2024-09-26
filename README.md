@@ -55,6 +55,7 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunganesh2004&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=9c38ff"  display=block height=190 align="center" alt="2"></td>
    </tr>
 </table>
+<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunganesh2004&theme=tokyonight" alt="mystreak"/>
 
 ![Snake animation](https://github.com/tarunganesh2004/tarunganesh2004/raw/main/dist/snake.svg)
 
