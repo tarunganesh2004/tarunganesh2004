@@ -57,5 +57,5 @@
 </table>
 <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunganesh2004&theme=tokyonight" alt="mystreak"/>
 
-<!--![Snake animation](https://github.com/tarunganesh2004/tarunganesh2004/raw/main/dist/snake.svg)
+![Snake animation](https://github.com/tarunganesh2004/tarunganesh2004/raw/main/dist/snake.svg)
 
