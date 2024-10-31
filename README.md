@@ -17,8 +17,8 @@
 ## 🌱 I'm Currently Learning
 
 - ReactJs
-- C#
-- GoLang
+- Express
+- Docker
 
 ### 🤝 Connect with me:
 
