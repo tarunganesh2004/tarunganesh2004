@@ -17,8 +17,7 @@
 ## 🌱 I'm Currently Learning
 
 - ReactJs
-- Express
-- Docker
+- Backend Technologies
 
 ### 🤝 Connect with me:
 
