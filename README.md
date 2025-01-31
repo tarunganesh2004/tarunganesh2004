@@ -18,7 +18,7 @@
 
 - ReactJs
 - Backend Technologies
-- Devops
+- Devsecops
 
 ### 🤝 Connect with me:
 
