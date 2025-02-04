@@ -54,11 +54,11 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=tarunganesh2004&show_icons=true&locale=en&theme=tokyonight&title_color=9c38ff"  display=block width=100% height=auto alt="1"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunganesh2004&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=9c38ff&hide=jupyter%20notebook,html,css"  display=block height=190 align="center" alt="2"></td>
    </tr>
-  <tr>
+<!--   <tr>
     <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunganesh2004&theme=tokyonight" alt="Naga Sai Tarun Ganesh" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunganesh2004&theme=dark" alt="Naga Sai Tarun Ganesh" />
 </p>
-  </tr>
+  </tr> -->
 </table>
 
 ## My Contribution Graph
