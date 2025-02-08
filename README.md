@@ -52,7 +52,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=tarunganesh2004&show_icons=true&locale=en&theme=tokyonight&title_color=9c38ff"  display=block width=100% height=auto alt="1"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunganesh2004&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=9c38ff&hide=jupyter%20notebook,html,rust"  display=block height=190 align="center" alt="2"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunganesh2004&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=9c38ff&hide=jupyter%20notebook,html,java,rust"  display=block height=190 align="center" alt="2"></td>
    </tr>
 <!--   <tr>
     <p align="center">
