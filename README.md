@@ -18,6 +18,7 @@
 
 - ReactJs
 - Backend Technologies
+- AI-ML
 
 ### 🤝 Connect with me:
 
