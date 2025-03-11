@@ -16,8 +16,7 @@
 
 ## 🌱 I'm Currently Learning
 
-- ReactJs
-- Backend Technologies
+- Devops
 
 ### 🤝 Connect with me:
 
