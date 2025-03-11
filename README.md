@@ -17,6 +17,7 @@
 ## 🌱 I'm Currently Learning
 
 - Devops
+- Data Engineering
 
 ### 🤝 Connect with me:
 
