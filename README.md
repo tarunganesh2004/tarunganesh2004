@@ -17,7 +17,6 @@
 ## 🌱 I'm Currently Learning
 
 - ReactJS
-- AWS
 - Devops
 
 ### 🤝 Connect with me:
