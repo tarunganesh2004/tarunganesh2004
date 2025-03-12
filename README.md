@@ -16,7 +16,6 @@
 
 ## 🌱 I'm Currently Learning
 
-- Go
 - Devops
 
 ### 🤝 Connect with me:
