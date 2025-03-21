@@ -14,7 +14,7 @@
 
 - 📫 Feel free to reach out to me through [mail](mailto:enstarunganesh@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tarun-ganesh-emadabathuni-440737255)!
 
-## 🌱 I'm Currently Learnin
+## 🌱 I'm Currently Learning
 
 - Devops
 
