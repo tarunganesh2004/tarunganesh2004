@@ -4,7 +4,7 @@
 
 - 🎓 I'm a student passionate about technology and learning. I have a strong foundation in Java, Python and I'm currently diving deep into the exciting world of Machine Learning and DevOps .
 
-- 💻 I also have experience in Full Stack web development and I'm always eager to expand my skills and take on new challenges.
+- 💻 I also have experience in front-end web development and I'm always eager to expand my skills and take on new challenges.
 
 - 🤖 My main areas of interest include machine learning, data science, and using technology to solve real-world problems.
 
