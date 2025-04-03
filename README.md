@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&width=600&height=80&color=25B31F&lines=Hi%2C%F0%9F%91%8Bthere+Tarun+Ganesh+here!...)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate CS Undergraduate and developer from VIT-AP University</h3>
+<h3 align="center">A passionate CS Undergraduate developer from VIT-AP University</h3>
 
 - 🎓 I'm a student passionate about technology and learning. I have a strong foundation in Java, Python and I'm currently diving deep into the exciting world of Machine Learning.
 
