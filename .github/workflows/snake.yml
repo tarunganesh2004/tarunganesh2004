@@ -3,9 +3,6 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *"  # every day at midnight
-  push:
-    branches:
-      - main
   workflow_dispatch:
 
 jobs:
@@ -13,12 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     name: generate snake.svg
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: tarunganesh2004
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
+
       - name: Commit and push
         uses: EndBug/add-and-commit@v9
         with:
