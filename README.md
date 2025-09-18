@@ -99,12 +99,11 @@
 ## My Contribution Graph
 <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=tarunganesh2004&theme=github-compact"/>
 
-## 🐍 GitHub Contribution Snake
+## GitHub Contribution Snake
 
-### Light Mode
-![Snake animation](https://github.com/tarunganesh2004/tarunganesh2004/raw/main/dist/snake.svg)
+<!--### Light Mode
+![Snake animation](https://github.com/tarunganesh2004/tarunganesh2004/raw/main/dist/snake.svg) -->
 
-### Dark Mode
 ![Snake animation](https://github.com/tarunganesh2004/tarunganesh2004/raw/main/dist/snake-dark.svg?palette=github-dark)
 
 <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunganesh2004&theme=tokyonight" alt="mystreak"/>
