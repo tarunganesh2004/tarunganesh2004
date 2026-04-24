@@ -1,18 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&width=600&height=80&color=25B31F&lines=Hi%2C%F0%9F%91%8Bthere+Tarun+Ganesh+here!...)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate CS Undergraduate and developer from VIT-AP University</h3>
+<h3 align="center">Digital Specialist Engineer(Infosys) - Big Data</h3>
 
-- 🎓 I'm a student passionate about technology learning. I have a strong foundation in Java, Python and I'm currently diving deep into the exciting world of Machine Learning.
+---
 
-- 💻 I also have experience in front-end web development and I'm always eager to expand my skills and take on new challenges.
+## 👨‍💻 About Me
 
-- 🤖 My main areas of interest include machine learning, data science, and using technology to solve real-world problems.
-
-- 🚀 I'm actively working on projects to apply my knowledge and I'm open to collaborations and learning opportunities.
-
+- 🎓 Completed **B.Tech** from **VIT-AP University**
+- 🏢 Completed **Digital Specialist Engineer (DSE) Training at Infosys (Big Data Stream)**
+- 💡 Strong foundation in **Java, Python, SQL, and Data Structures**
+- 📊 Interested in **Big Data, Data Engineering, and Backend Development**
+- 🤖 Experience in **Machine Learning and Data Analysis**
+- 🚀 Focused on building **scalable, data-driven systems**
 - 👨‍💻 All of my projects are available at [https://github.com/tarunganesh2004?tab=repositories](https://github.com/tarunganesh2004?tab=repositories)
-
 - 📫 Feel free to reach out to me through [mail](mailto:enstarunganesh@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tarun-ganesh-emadabathuni-440737255)!
+---
 
 ## 🌱 I'm Currently Learning
 
